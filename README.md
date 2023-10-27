@@ -3,13 +3,13 @@ The first API Accounting System
 
 ## Objectives
 
-Provide an API First Accounting System for any kind of legal entity incorporated into virtually any country of incorporation.
-For now, I'm doing it just for fun!
+Provide an API First Accounting System for any kind of legal entity incorporated into virtually any country.
+This is an open source project. I'm doing it just for fun!
 
 ## Development and deployment considerations
 
 - I'm developing this project using Agile methodologies and disciplines as SCRUM and Test-Driven Development.
-- The architecture of the project will be based on a clean hexagonal architecture.It helps me define decoupled code structure, isolated with external components and easy-to-run tests.
+- The architecture of the project will be based on a clean hexagonal architecture. It helps me define decoupled code structure, isolated with external components and easy-to-run tests.
 - Cloud-native solution available to deploy in any public, private or hybrid cloud as well as on-premises.
 - Container based deployment, allowing it to run in a wide range of hosts/OS.
 - 100% test coverage of the base code.
